@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{1330:function(e,u,o){"use strict";Object.defineProperty(u,"__esModule",{value:!0}),u.guard=void 0;var r,a=o(7),t=(r=a)&&r.__esModule?r:{default:r};u.guard={authUrls:[t.default.user_factor],emailUrls:/(user-)/g,redirect:function(e){location.href=e||t.default.home}}}}]);
